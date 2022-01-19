@@ -1,0 +1,18 @@
+# Articulos definidos
+articulo.castellano.definido: el
+articulo.castellano.definido: la
+articulo.castellano.definido: los
+articulo.castellano.definido: las
+articulo.castellano.definido: lo
+#
+#
+# Articulos indefinidos
+articulo.castellano.indefinidos: un
+articulo.castellano.indefinidos: una
+articulo.castellano.indefinidos: unos
+articulo.castellano.indefinidos: unas
+#
+#
+# Articulos contractos   A + EL  == AL	  DE + EL == DEL 
+articulo.castellano.contractos: al
+articulo.castellano.contractos: del

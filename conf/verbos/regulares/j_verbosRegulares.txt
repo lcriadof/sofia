@@ -1,0 +1,5 @@
+juntar = to join
+jurar = to swear
+justificar = to justify
+juzgar = to judge
+ 

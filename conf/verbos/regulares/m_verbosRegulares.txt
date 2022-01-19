@@ -1,0 +1,11 @@
+manchar = to dirty
+mancharse = to get dirty
+mandar = to order
+matar = to kill
+mejorar = to improve
+memorizar = to memorize
+meter = to insert
+mirar = to look at
+modificar = to modify
+mojar = to wet
+molestar = to annoy

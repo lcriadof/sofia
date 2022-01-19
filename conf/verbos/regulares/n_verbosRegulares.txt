@@ -1,0 +1,6 @@
+nadar = to wet
+narrar = to narrate
+necesitar = to need
+negociar = to negotiate
+nombrar = to name
+numerar = to number

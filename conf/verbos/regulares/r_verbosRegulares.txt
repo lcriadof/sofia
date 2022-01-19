@@ -1,0 +1,34 @@
+razonar = to reason
+rechazar = to reject
+recibir = to receive
+recuperar = to recuperate
+regresar = to return
+relacionar = to relate
+relajar = to relax
+reparar = to repair
+repartir = to distribute
+repasar = to revise
+representar = to represent
+reservar = to reserve
+resfriar = to catch a cold
+resistir = to resist
+respetar = to respect
+respirar = to breathe
+responder = to answer
+restar = to take away
+resultar = to turn out to be
+resumir = to summarize
+retrasar = to delay
+reunir = to reunite
+revolucionar = to revolutionize
+robar = to rob
+romper = to break
+
+
+ 
+
+
+
+
+
+

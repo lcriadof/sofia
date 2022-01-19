@@ -1,0 +1,15 @@
+tapar = to cover
+temer = to fear
+terminar = to end
+tirar = to throw
+tocar = to touch
+tocarse = to touch each other
+tolerar = to tolerate
+tomar = to take
+trabajar = to work
+tragar = to swallow
+transformar = to transform
+transmitir = to transmit
+transportar = to transport
+trasladar = to move
+tratar = to treat

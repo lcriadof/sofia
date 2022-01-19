@@ -1,0 +1,121 @@
+#Adverbios de lugar
+
+adverbio.castellano.lugar: aquí
+adverbio.castellano.lugar: allí
+adverbio.castellano.lugar: ahí
+adverbio.castellano.lugar: allá
+adverbio.castellano.lugar: acá
+adverbio.castellano.lugar: arriba
+adverbio.castellano.lugar: abajo
+adverbio.castellano.lugar: cerca
+adverbio.castellano.lugar: lejos
+adverbio.castellano.lugar: delante
+adverbio.castellano.lugar: detrás
+adverbio.castellano.lugar: encima
+adverbio.castellano.lugar: debajo
+adverbio.castellano.lugar: enfrente
+adverbio.castellano.lugar: atrás
+adverbio.castellano.lugar: alrededor 
+    
+    
+# Adverbios de tiempo
+
+adverbio.castellano.tiempo: antes
+adverbio.castellano.tiempo: después
+adverbio.castellano.tiempo: pronto
+adverbio.castellano.tiempo: tarde
+adverbio.castellano.tiempo: temprano
+adverbio.castellano.tiempo: todavía
+adverbio.castellano.tiempo: aún
+adverbio.castellano.tiempo: ya
+adverbio.castellano.tiempo: ayer
+adverbio.castellano.tiempo: hoy
+adverbio.castellano.tiempo: mañana
+adverbio.castellano.tiempo: siempre
+adverbio.castellano.tiempo: nunca
+adverbio.castellano.tiempo: jamás
+adverbio.castellano.tiempo: próximamente
+adverbio.castellano.tiempo: prontamente
+adverbio.castellano.tiempo: anoche
+adverbio.castellano.tiempo: enseguida
+adverbio.castellano.tiempo: ahora
+adverbio.castellano.tiempo: mientras    
+     
+
+# Adverbios de modo: - todas las que se formen con las terminaciones "mente".
+
+advervio.castellano.modo: bien
+advervio.castellano.modo: mal
+advervio.castellano.modo: regular
+advervio.castellano.modo: despacio
+advervio.castellano.modo: deprisa
+advervio.castellano.modo: así
+advervio.castellano.modo: aprisa
+advervio.castellano.modo: como
+advervio.castellano.modo: adrede
+advervio.castellano.modo: peor
+advervio.castellano.modo: mejor
+advervio.castellano.modo: fielmente
+advervio.castellano.modo: estupendamente
+advervio.castellano.modo: fácilmente 
+
+    
+# Adverbios de cantidad o grado: 
+
+adverbios.castellano.cantidad: poco           
+adverbios.castellano.cantidad: mucho          
+adverbios.castellano.cantidad: bastante       
+adverbios.castellano.cantidad: más            
+adverbios.castellano.cantidad: menos          
+adverbios.castellano.cantidad: algo           
+adverbios.castellano.cantidad: demasiado      
+adverbios.castellano.cantidad: casi           
+adverbios.castellano.cantidad: sólo           
+adverbios.castellano.cantidad: solamente      
+adverbios.castellano.cantidad: tan            
+adverbios.castellano.cantidad: tanto          
+adverbios.castellano.cantidad: todo           
+adverbios.castellano.cantidad: nada           
+adverbios.castellano.cantidad: aproximadamente
+
+    
+# Adverbios de afirmación
+    
+adverbio.castellano.afirmacion: sí
+adverbio.castellano.afirmacion: también
+adverbio.castellano.afirmacion: cierto
+adverbio.castellano.afirmacion: ciertamente
+adverbio.castellano.afirmacion: efectivamente
+adverbio.castellano.afirmacion: claro
+adverbio.castellano.afirmacion: exacto 
+adverbio.castellano.afirmacion: verdaderamente
+    
+    
+# Adverbios de negación: 
+
+adverbio.castellano.negacion: no
+adverbio.castellano.negacion: jamás 
+adverbio.castellano.negacion: nunca
+adverbio.castellano.negacion: tampoco
+
+        
+# Adverbios de duda o dubitativos:
+    
+adverbio.castellano.duda: quizá
+adverbio.castellano.duda: quizás
+adverbio.castellano.duda: acaso
+adverbio.castellano.duda: probablemente
+adverbio.castellano.duda: posiblemente
+adverbio.castellano.duda: seguramente
+adverbio.castellano.duda: tal vez
+
+ 
+        
+# Adverbios de comparación: 
+
+adverbio.castellano.comparacion: mejor que
+adverbio.castellano.comparacion: peor que
+adverbio.castellano.comparacion: tal
+adverbio.castellano.comparacion: como
+
+

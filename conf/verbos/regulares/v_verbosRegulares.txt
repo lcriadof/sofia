@@ -1,0 +1,12 @@
+vaciar = to empty
+valorar = to value
+variar = to vary
+vender = to sell
+ver = to see
+viajar = to travel
+vigilar = to watch
+visitar = to visit
+vivir = to live
+vomitar = to vomit
+votar = to vote
+

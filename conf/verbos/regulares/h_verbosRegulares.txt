@@ -1,0 +1,5 @@
+habitar = to inhabit
+habituar = to accustom
+habituarse = to get used to
+hablar = to speak
+humillar = to humiliate

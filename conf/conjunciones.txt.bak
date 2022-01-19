@@ -1,0 +1,47 @@
+# Conjunciones copulativas
+conjuncion.castellano.copulativa: y
+conjuncion.castellano.copulativa: e
+conjuncion.castellano.copulativa: ni
+# Conjunciones disyuntivas
+conjuncion.castellano.disyuntivas: o
+conjuncion.castellano.disyuntivas: u
+# Conjunciones adversaivas
+advervio.castellano.adversaivas: pero
+advervio.castellano.adversaivas: mas
+advervio.castellano.adversaivas: sino
+# Conjunciones causales
+conjuncions.castellano.causales: porque           
+conjuncions.castellano.causales: pues 
+
+    
+# Conjunciones condicionales
+conjuncion.castellano.afirmacion: si
+    
+# conjuncions de negación: 
+
+conjuncion.castellano.negacion: no
+conjuncion.castellano.negacion: jamás 
+conjuncion.castellano.negacion: nunca
+conjuncion.castellano.negacion: tampoco
+
+        
+# conjuncions de duda o dubitativos:
+    
+conjuncion.castellano.duda: quizá
+conjuncion.castellano.duda: quizás
+conjuncion.castellano.duda: acaso
+conjuncion.castellano.duda: probablemente
+conjuncion.castellano.duda: posiblemente
+conjuncion.castellano.duda: seguramente
+conjuncion.castellano.duda: tal vez
+
+ 
+        
+# conjuncions de comparación: 
+
+conjuncion.castellano.comparacion: mejor que
+conjuncion.castellano.comparacion: peor que
+conjuncion.castellano.comparacion: tal
+conjuncion.castellano.comparacion: como
+
+

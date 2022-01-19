@@ -1,0 +1,13 @@
+fabricar = to make
+facilitar = to facilitate
+fascinar = to fascinate
+fastidiar = to annoy
+felicitar = to congratulate
+finalizar = to end
+firmar = to sign
+formalizar = to formalize
+formar = to form
+frenar = to break
+fumar = to smoke
+funcionar = to function
+ 

@@ -1,0 +1,1011 @@
+infinitivo.ingles: act 
+pasado.ingles: acted 
+participio.ingles: acted 
+infinitivo.castellano: actuar
+participio.castellano: actuado 
+raiz.castellano: actu
+
+
+infinitivo.ingles: arrest
+pasado.ingles: arrested
+infinitivo.castellano: arrestar
+id
+
+infinitivo.ingles: assist
+pasado.ingles: assisted
+infinitivo.castellano: ayudar
+id
+
+infinitivo.ingles: attend
+pasado.ingles: attended
+infinitivo.castellano: asistir
+
+
+infinitivo.ingles: address
+pasado.ingles: addressed
+infinitivo.castellano: dirigir
+t
+
+infinitivo.ingles: advertise
+pasado.ingles: advertised
+infinitivo.castellano: anunciar
+t
+
+infinitivo.ingles: amuse
+pasado.ingles: Amused
+infinitivo.castellano: entretener
+t
+
+infinitivo.ingles: approach
+pasado.ingles: Approached
+infinitivo.castellano: acercarse
+t
+
+infinitivo.ingles: ask
+pasado.ingles: Asked
+infinitivo.castellano: preguntar
+t
+
+infinitivo.ingles: accompany
+pasado.ingles: accompanied
+infinitivo.castellano: acompañar
+d
+
+infinitivo.ingles: accustom
+pasado.ingles: accustomed
+infinitivo.castellano: acostumbrar
+d
+
+infinitivo.ingles: agree
+pasado.ingles: agreed
+infinitivo.castellano: concordar
+d
+
+infinitivo.ingles: annoy
+pasado.ingles: annoyed
+infinitivo.castellano: molestar
+d
+
+infinitivo.ingles: answer
+pasado.ingles: answered
+infinitivo.castellano: responder
+d
+
+infinitivo.ingles: appeal
+pasado.ingles: applealed
+infinitivo.castellano: atraer
+d
+
+infinitivo.ingles: appear
+pasado.ingles: appeared
+infinitivo.castellano: aparecer
+d
+
+infinitivo.ingles: arrange
+pasado.ingles: arranged
+infinitivo.castellano: arreglar
+
+
+infinitivo.ingles: arrive
+pasado.ingles: arrived
+infinitivo.castellano: arribar
+d
+
+
+
+infinitivo.ingles: board
+pasado.ingles: boarded
+infinitivo.castellano: abordar
+id
+
+infinitivo.ingles: balance
+pasado.ingles: balanced
+infinitivo.castellano: equilibrar
+t
+
+infinitivo.ingles: banish
+pasado.ingles: banished
+infinitivo.castellano: desterrar
+t
+
+infinitivo.ingles: bark
+pasado.ingles: barked
+infinitivo.castellano: ladrar
+t
+
+infinitivo.ingles: bless
+pasado.ingles: blessed
+infinitivo.castellano: bendecir
+t
+
+infinitivo.ingles: brush
+pasado.ingles: brushed
+infinitivo.castellano: cepillar
+t
+
+infinitivo.ingles: behave
+pasado.ingles: behaved
+infinitivo.castellano: comportarse
+d
+
+infinitivo.ingles: belong
+pasado.ingles: belonged
+infinitivo.castellano: pertenecer
+d
+
+infinitivo.ingles: beg
+pasado.ingles: begged
+infinitivo.castellano: suplicar
+
+infinitivo.ingles: believe
+pasado.ingles: believed
+infinitivo.castellano: creer
+d
+
+infinitivo.ingles: boil
+pasado.ingles: boiled
+infinitivo.castellano: hervir
+d
+
+infinitivo.ingles: breathe
+pasado.ingles: breathed
+infinitivo.castellano: respirar
+id
+
+infinitivo.ingles: complete
+pasado.ingles: completed
+infinitivo.castellano: completar
+id
+
+infinitivo.ingles: consist
+pasado.ingles: consisted
+infinitivo.castellano: consistir
+id
+
+infinitivo.ingles: count
+pasado.ingles: counted
+infinitivo.castellano: contar
+id
+
+infinitivo.ingles: close
+pasado.ingles: closed
+infinitivo.castellano: cerrar
+t
+
+infinitivo.ingles: cook
+pasado.ingles: cooked
+infinitivo.castellano: cocinar
+t
+
+infinitivo.ingles: crash
+pasado.ingles: crashed
+infinitivo.castellano: chocar
+t
+
+infinitivo.ingles: cross 
+pasado.ingles: crosssed 
+infinitivo.castellano: cruzar 
+t
+
+infinitivo.ingles: call
+pasado.ingles: called
+infinitivo.castellano: llamar
+d
+
+infinitivo.ingles: care
+pasado.ingles: cared
+infinitivo.castellano: cuidar
+d
+
+infinitivo.ingles: carry
+pasado.ingles: carried
+infinitivo.castellano: llevar
+d
+
+infinitivo.ingles: change
+pasado.ingles: changed
+infinitivo.castellano: cambiar
+d
+
+infinitivo.ingles: check
+pasado.ingles: checked
+infinitivo.castellano: chequear
+t
+
+infinitivo.ingles: charge
+pasado.ingles: charged
+infinitivo.castellano: cargar
+
+infinitivo.ingles: charge
+pasado.ingles: charged
+infinitivo.castellano: cobrar
+
+
+infinitivo.ingles: clean
+pasado.ingles: cleaned
+infinitivo.castellano: limpiar
+d
+
+infinitivo.ingles: climb
+pasado.ingles: climbed
+infinitivo.castellano: escalar
+
+infinitivo.ingles: comb
+pasado.ingles: combed
+infinitivo.castellano: peinar
+d
+
+infinitivo.ingles: cover
+pasado.ingles: covered
+infinitivo.castellano: cubrir
+d
+
+infinitivo.ingles: cry
+pasado.ingles: cried
+infinitivo.castellano: llorar
+d
+
+infinitivo.ingles: crawl
+pasado.ingles: crawled
+infinitivo.castellano: gatear
+
+
+infinitivo.ingles: dance
+pasado.ingles: danced
+infinitivo.castellano: bailar
+t
+
+infinitivo.ingles: dress
+pasado.ingles: dressed
+infinitivo.castellano: vestir
+t
+
+infinitivo.ingles: dropp
+pasado.ingles: dropped
+infinitivo.castellano: caer
+t
+
+infinitivo.ingles: dial
+pasado.ingles: dialed
+infinitivo.castellano: sintonizar
+d
+
+infinitivo.ingles: die
+pasado.ingles: died
+infinitivo.castellano: morir
+d
+
+infinitivo.ingles: declare
+pasado.ingles: declared
+infinitivo.castellano: declarar
+d
+
+infinitivo.ingles: delay
+pasado.ingles: delayed
+infinitivo.castellano: demorar
+d
+
+infinitivo.ingles: deliver
+pasado.ingles: delivered
+infinitivo.castellano: entregar
+d
+
+infinitivo.ingles: deny
+pasado.ingles: denied
+infinitivo.castellano: negar
+d
+
+infinitivo.ingles: dine
+pasado.ingles: dined
+infinitivo.castellano: cenar
+d
+
+infinitivo.ingles: dry
+pasado.ingles: dried
+infinitivo.castellano: secar
+d
+
+infinitivo.ingles: enclose
+pasado.ingles: enclosed
+infinitivo.castellano: incluir
+t
+
+infinitivo.ingles: enjoy
+pasado.ingles: enjoyed
+infinitivo.castellano: disfrutar
+d
+
+infinitivo.ingles: engage
+pasado.ingles: engaged
+infinitivo.castellano: comprometer
+d
+
+infinitivo.ingles: envy
+pasado.ingles: envied
+infinitivo.castellano: envidiar
+d
+
+infinitivo.ingles: express
+pasado.ingles: expressed
+infinitivo.castellano: expresar
+t
+
+infinitivo.ingles: exclaim
+pasado.ingles: exclaimed
+infinitivo.castellano: exclamar
+d
+
+infinitivo.ingles: explain
+pasado.ingles: explained
+infinitivo.castellano: explicar
+d
+
+infinitivo.ingles: fail
+pasado.ingles: failed
+infinitivo.castellano: fallar
+d
+
+infinitivo.ingles: fasten
+pasado.ingles: fastended
+infinitivo.castellano: abrochar
+d
+
+infinitivo.ingles: file
+pasado.ingles: filed
+infinitivo.castellano: archivar
+d
+
+infinitivo.ingles: fill
+pasado.ingles: filled
+infinitivo.castellano: llenar
+d
+
+infinitivo.ingles: fire
+pasado.ingles: fired
+infinitivo.castellano: disparar
+d
+
+infinitivo.ingles: follow
+pasado.ingles: followed
+infinitivo.castellano: seguir
+d
+
+infinitivo.ingles: frighten
+pasado.ingles: frightened
+infinitivo.castellano: espantar
+d
+
+infinitivo.ingles: fry
+pasado.ingles: fried
+infinitivo.castellano: freir
+d
+
+infinitivo.ingles: finish
+pasado.ingles: finished
+infinitivo.castellano: terminar
+t
+
+infinitivo.ingles: fish
+pasado.ingles: fished
+infinitivo.castellano: pescar
+t
+
+infinitivo.ingles: fix
+pasado.ingles: fixed
+infinitivo.castellano: fixed
+t
+
+infinitivo.ingles: gain
+pasado.ingles: gained
+infinitivo.castellano: ganar
+d
+
+infinitivo.ingles: guess
+pasado.ingles: guessed
+infinitivo.castellano: adivinar
+t
+
+infinitivo.ingles: help
+pasado.ingles: helped
+infinitivo.castellano: ayudar
+t
+
+infinitivo.ingles: hope
+pasado.ingles: hoped
+infinitivo.castellano: esperar
+t
+
+infinitivo.ingles: happen
+pasado.ingles: happened
+infinitivo.castellano: suceder
+d
+
+infinitivo.ingles: hurry
+pasado.ingles: hurried
+infinitivo.castellano: apurar
+d
+
+infinitivo.ingles: imagine
+pasado.ingles: imagined
+infinitivo.castellano: imaginar
+d
+
+infinitivo.ingles: iron
+pasado.ingles: ironed
+infinitivo.castellano: planchar
+d
+
+infinitivo.ingles: judge
+pasado.ingles: judged
+infinitivo.castellano: juzgar
+d
+
+infinitivo.ingles: kiss
+pasado.ingles: kissed
+infinitivo.castellano: besar
+t
+
+infinitivo.ingles: kill
+pasado.ingles: killed
+infinitivo.castellano: matar
+d
+
+infinitivo.ingles: laugh
+pasado.ingles: laughged
+infinitivo.castellano: reir
+t
+
+infinitivo.ingles: leak
+pasado.ingles: leaked
+infinitivo.castellano: gotear
+t
+
+infinitivo.ingles: like
+pasado.ingles: liked
+infinitivo.castellano: gustar
+t
+
+infinitivo.ingles: lock
+pasado.ingles: locked
+infinitivo.castellano: cerrar
+t
+
+infinitivo.ingles: look
+pasado.ingles: looked
+infinitivo.castellano: mirar
+t
+
+infinitivo.ingles: mark
+pasado.ingles: marked
+infinitivo.castellano: marcar
+
+
+infinitivo.ingles: mark
+pasado.ingles: marked
+infinitivo.castellano: señalar
+
+
+infinitivo.ingles: milk
+pasado.ingles: milked
+infinitivo.castellano: ordeñar
+t
+
+infinitivo.ingles: miss
+pasado.ingles: missed
+infinitivo.castellano: extrañar
+t
+
+infinitivo.ingles: manage
+pasado.ingles: managed
+infinitivo.castellano: manejar
+d
+
+infinitivo.ingles: marry
+pasado.ingles: married
+infinitivo.castellano: casar 
+d
+
+infinitivo.ingles: massage
+pasado.ingles: massaged
+infinitivo.castellano: masajear
+d
+
+infinitivo.ingles: measure
+pasado.ingles: measured
+infinitivo.castellano: medir
+d
+
+infinitivo.ingles: move
+pasado.ingles: moved
+infinitivo.castellano: mover
+d
+
+infinitivo.ingles: observe
+pasado.ingles: observed
+infinitivo.castellano: observar
+d
+
+infinitivo.ingles: offer
+pasado.ingles: offered
+infinitivo.castellano: ofrecer
+d
+
+infinitivo.ingles: open
+pasado.ingles: opened
+infinitivo.castellano: abrir
+d
+
+infinitivo.ingles: order
+pasado.ingles: ordered
+infinitivo.castellano: ordenar
+d
+
+infinitivo.ingles: peform
+pasado.ingles: performed
+infinitivo.castellano: ejecutar
+d
+
+infinitivo.ingles: phone
+pasado.ingles: phoned
+infinitivo.castellano: telefonear
+d
+
+infinitivo.ingles: plan
+pasado.ingles: planned
+infinitivo.castellano: planear
+d
+
+infinitivo.ingles: play
+pasado.ingles: played
+infinitivo.castellano: jugar
+d
+
+infinitivo.ingles: plough
+pasado.ingles: ploughed
+infinitivo.castellano: arar
+d
+
+infinitivo.ingles: pour
+pasado.ingles: poured
+infinitivo.castellano: derramar
+
+infinitivo.ingles: pour
+pasado.ingles: poured
+infinitivo.castellano: verter
+
+
+infinitivo.ingles: pray
+pasado.ingles: prayed
+infinitivo.castellano: orar
+d
+
+infinitivo.ingles: prefer
+pasado.ingles: prefered
+infinitivo.castellano: preferir
+d
+
+infinitivo.ingles: prepare
+pasado.ingles: prepared
+infinitivo.castellano: preparar
+d
+
+infinitivo.ingles: pull
+pasado.ingles: pulled
+infinitivo.castellano: tirar
+d
+
+infinitivo.ingles: park
+pasado.ingles: parked
+infinitivo.castellano: estacionar
+t
+
+infinitivo.ingles: pass
+pasado.ingles: passed
+infinitivo.castellano: pasar
+t
+
+infinitivo.ingles: pick
+pasado.ingles: picked
+infinitivo.castellano: recoger
+t
+
+infinitivo.ingles: please
+pasado.ingles: pleased
+infinitivo.castellano: complacer
+d
+
+infinitivo.ingles: polish
+pasado.ingles: polished
+infinitivo.castellano: pulir
+t
+
+infinitivo.ingles: practise
+pasado.ingles: practised
+infinitivo.castellano: practicar
+t
+
+infinitivo.ingles: promise
+pasado.ingles: promised
+infinitivo.castellano: prometer
+t
+
+infinitivo.ingles: pronounce
+pasado.ingles: pronounced
+infinitivo.castellano: pronunciar
+t
+
+infinitivo.ingles: punish
+pasado.ingles: punished
+infinitivo.castellano: castigar
+t
+
+infinitivo.ingles: push
+pasado.ingles: pushed
+infinitivo.castellano: empujar
+t
+
+infinitivo.ingles: repeat
+pasado.ingles: repeated
+infinitivo.castellano: repetir
+id
+
+infinitivo.ingles: report
+pasado.ingles: reported
+infinitivo.castellano: reportar
+
+infinitivo.ingles: report
+pasado.ingles: reported
+infinitivo.castellano: informar
+
+
+infinitivo.ingles: request
+pasado.ingles: requested
+infinitivo.castellano: solicitar
+
+infinitivo.ingles: rest
+pasado.ingles: rested
+infinitivo.castellano: descansar
+id
+
+infinitivo.ingles: reach
+pasado.ingles: reached
+infinitivo.castellano: alcanzar
+t
+
+infinitivo.ingles: refuse
+pasado.ingles: refused
+infinitivo.castellano: rehusar
+t
+
+infinitivo.ingles: raise
+pasado.ingles: raised
+infinitivo.castellano: levantar
+t
+
+infinitivo.ingles: rain
+pasado.ingles: rained
+infinitivo.castellano: llover
+d
+
+infinitivo.ingles: register
+pasado.ingles: registered
+infinitivo.castellano: registrar
+d
+
+infinitivo.ingles: receive
+pasado.ingles: received
+infinitivo.castellano: recibir
+d
+
+infinitivo.ingles: remenber
+pasado.ingles: remenbered
+infinitivo.castellano: recordar
+d
+
+infinitivo.ingles: repair
+pasado.ingles: pepaired
+infinitivo.castellano: reparar
+d
+
+infinitivo.ingles: require
+pasado.ingles: required
+infinitivo.castellano: requerir
+d
+
+infinitivo.ingles: reserve
+pasado.ingles: reserved
+infinitivo.castellano: reservar
+d
+
+infinitivo.ingles: row
+pasado.ingles: rowed
+infinitivo.castellano: remar
+d
+
+infinitivo.ingles: resolve
+pasado.ingles: resolved
+infinitivo.castellano: resolver
+d
+
+infinitivo.ingles: return
+pasado.ingles: returned
+infinitivo.castellano: retornar
+
+infinitivo.ingles: return
+pasado.ingles: returned
+infinitivo.castellano: volver
+
+
+
+infinitivo.ingles: search
+pasado.ingles: searched
+infinitivo.castellano: buscar
+
+
+infinitivo.ingles: save
+pasado.ingles: saved
+infinitivo.castellano: salvar
+d
+
+infinitivo.ingles: serve
+pasado.ingles: served
+infinitivo.castellano: servir
+d
+
+infinitivo.ingles: settle
+pasado.ingles: settled
+infinitivo.castellano: establecer
+d
+
+infinitivo.ingles: sign
+pasado.ingles: signed
+infinitivo.castellano: firmar
+d
+
+infinitivo.ingles: smile
+pasado.ingles: smiled
+infinitivo.castellano: sonreir
+d
+
+infinitivo.ingles: snow
+pasado.ingles: snowed
+infinitivo.castellano: nevar
+d
+
+infinitivo.ingles: spill
+pasado.ingles: spilled
+infinitivo.castellano: derramar
+d
+
+infinitivo.ingles: stay
+pasado.ingles: stayed
+infinitivo.castellano: permanecer
+d
+
+infinitivo.ingles: study
+pasado.ingles: studied
+infinitivo.castellano: estudiar
+d
+
+infinitivo.ingles: suffer
+pasado.ingles: suffered
+infinitivo.castellano: sufrir
+d
+
+infinitivo.ingles: swallow
+pasado.ingles: swallowed
+infinitivo.castellano: tragar
+d
+
+infinitivo.ingles: slip
+pasado.ingles: slipped
+infinitivo.castellano: resbalar
+t
+
+infinitivo.ingles: smoke
+pasado.ingles: smoked
+infinitivo.castellano: fumar
+t
+
+infinitivo.ingles: stop
+pasado.ingles: stopped
+infinitivo.castellano: detener
+
+infinitivo.ingles: stop
+pasado.ingles: stopped
+infinitivo.castellano: parar
+
+
+infinitivo.ingles: switch
+pasado.ingles: switched
+infinitivo.castellano: conectar
+
+
+infinitivo.ingles: switch
+pasado.ingles: switched
+infinitivo.castellano: accionar
+
+infinitivo.ingles: stretch
+pasado.ingles: stretched
+infinitivo.castellano: estirar
+
+
+infinitivo.ingles: talk
+pasado.ingles: talked
+infinitivo.castellano: conversar
+t
+
+infinitivo.ingles: thank
+pasado.ingles: thanked
+infinitivo.castellano: agradecer
+t
+
+infinitivo.ingles: touch
+pasado.ingles: touched
+infinitivo.castellano: tocar
+
+infinitivo.ingles: touch
+pasado.ingles: touched
+infinitivo.castellano: palpar
+
+
+infinitivo.ingles: trap
+pasado.ingles: trapped
+infinitivo.castellano: atrapar
+t
+
+infinitivo.ingles: tire
+pasado.ingles: tired
+infinitivo.castellano: cansar
+
+infinitivo.ingles: tire
+pasado.ingles: tired
+infinitivo.castellano: fatigar
+
+, 
+d
+
+infinitivo.ingles: train
+pasado.ingles: trained
+infinitivo.castellano: entrenar
+d
+
+infinitivo.ingles: travel
+pasado.ingles: traveled
+infinitivo.castellano: viajar
+d
+
+infinitivo.ingles: trouble
+pasado.ingles: troubled
+infinitivo.castellano: molestar
+d
+
+infinitivo.ingles: try
+pasado.ingles: tried
+infinitivo.castellano: intantar
+
+infinitivo.ingles: try
+pasado.ingles: tried
+infinitivo.castellano: tratar
+d
+
+infinitivo.ingles: turn
+pasado.ingles: turned
+infinitivo.castellano: girar
+
+
+infinitivo.ingles: turn
+pasado.ingles: turned
+infinitivo.castellano: voltear
+, 
+d
+
+infinitivo.ingles: unpack
+pasado.ingles: unpacked
+infinitivo.castellano: desempaquetar
+t
+
+infinitivo.ingles: use
+pasado.ingles: used
+infinitivo.castellano: usar
+t
+
+infinitivo.ingles: visit
+pasado.ingles: visited
+infinitivo.castellano: visitar
+id
+
+infinitivo.ingles: wait
+pasado.ingles: waited
+infinitivo.castellano: esperar
+id
+
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+infinitivo.castellano: necesitar
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+infinitivo.castellano: requerir
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+infinitivo.castellano: desear
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+infinitivo.castellano: querer
+
+
+infinitivo.ingles: walk
+pasado.ingles: walked
+infinitivo.castellano: caminar
+t
+
+infinitivo.ingles: wash
+pasado.ingles: washed
+infinitivo.castellano: lavar
+t
+
+infinitivo.ingles: watch
+pasado.ingles: watched
+infinitivo.castellano: observar
+
+infinitivo.ingles: watch
+pasado.ingles: watched
+infinitivo.castellano: mirar
+
+
+infinitivo.ingles: wish
+pasado.ingles: wished
+infinitivo.castellano: desear
+
+infinitivo.ingles: wish
+pasado.ingles: wished
+infinitivo.castellano: anhelar
+
+
+infinitivo.ingles: work
+pasado.ingles: worked
+infinitivo.castellano: trabajar
+t
+
+infinitivo.ingles: wrap up
+pasado.ingles: wrapped up
+infinitivo.castellano: envolver
+t
+
+infinitivo.ingles: wreck
+wpasado.ingles: recked
+infinitivo.castellano: naufragar
+t
+
+infinitivo.ingles: warm
+pasado.ingles: warmed
+infinitivo.castellano: calentar
+d
+
+infinitivo.ingles: warn
+pasado.ingles: warned
+infinitivo.castellano: advertir
+d
+
+infinitivo.ingles: water
+pasado.ingles: watered
+infinitivo.castellano: regar
+d
+
+infinitivo.ingles: weigh
+pasado.ingles: weighed
+infinitivo.castellano: pesar
+d
+
+infinitivo.ingles: whistle
+pasado.ingles: whistled
+infinitivo.castellano: silbar
+d
+
+
+
+

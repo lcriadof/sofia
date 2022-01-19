@@ -1,0 +1,10 @@
+observar = to observe
+odiar = to hate
+ofender = to offend
+olvidar = to forget
+omitir = to omit
+opinar = to think
+organizar = to organize
+orientar = to orientate
+originar = to originate
+ 

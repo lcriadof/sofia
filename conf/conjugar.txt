@@ -1,0 +1,1948 @@
+# revisado hasta el verbo "expresar"
+
+
+# verbos muy irregulares en ingles y castellano
+
+infinitivo.ingles: be
+pasado.ingles:  
+participio.ingles: been
+infinitivo.castellano: ser
+participio.castellano: sido
+gerundio.castellano: siendo
+raiz.castellano: 
+tipo.irregular: 64
+ejemplo.irregularidad: ser 
+
+# verbo auxliar
+infinitivo.ingles: have
+pasado.ingles: had
+participio.ingles: had
+infinitivo.castellano: haber
+participio.castellano: habido
+gerundio.castellano: habiendo
+raiz.castellano: hab
+tipo.irregular: 27
+ejemplo.irregularidad: haber
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: dry
+pasado.ingles: dried
+participio.ingles: dried
+infinitivo.castellano: secar
+participio.castellano: secado
+gerundio.castellano: secando
+raiz.castellano: sec
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: approach
+pasado.ingles: Approached
+participio.ingles: Approached
+infinitivo.castellano: acercar
+participio.castellano: null
+gerundio.castellano: null
+raiz.castellano: acercar
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: beg
+pasado.ingles: begged
+participio.ingles: begged
+infinitivo.castellano: suplicar
+participio.castellano: suplicado
+gerundio.castellano: suplicando
+raiz.castellano: suplic
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: crash
+pasado.ingles: crashed
+participio.ingles: crashed
+infinitivo.castellano: chocar
+participio.castellano: chocado
+gerundio.castellano: chocando
+raiz.castellano: choc
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: explain
+pasado.ingles: explained
+participio.ingles: explained
+infinitivo.castellano: explicar
+participio.castellano: explicado
+gerundio.castellano: explicando
+raiz.castellano: explic
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: fish
+pasado.ingles: fished
+participio.ingles: fished
+infinitivo.castellano: pescar
+participio.castellano: pescado
+gerundio.castellano: pescando
+raiz.castellano: pesc
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: mark
+pasado.ingles: marked
+participio.ingles: marked
+infinitivo.castellano: marcar
+participio.castellano: marcado
+gerundio.castellano: marcando
+raiz.castellano: marc
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: practise
+pasado.ingles: practised
+participio.ingles: practised
+infinitivo.castellano: practicar
+participio.castellano: practicado
+gerundio.castellano: practicando
+raiz.castellano: practic
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: search
+pasado.ingles: searched
+participio.ingles: searched
+infinitivo.castellano: buscar
+participio.castellano: buscado
+gerundio.castellano: buscando
+raiz.castellano: busc
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular   tipo 58 (ejemplo sacar)
+infinitivo.ingles: touch
+pasado.ingles: touched
+participio.ingles: touched
+infinitivo.castellano: tocar
+participio.castellano: tocado
+gerundio.castellano: tocando
+raiz.castellano: toc
+tipo.irregular: 58
+ejemplo.irregularidad: sacar
+
+# irregular    tipo 66 (ejemplo tener)
+infinitivo.ingles: stop
+pasado.ingles: stopped
+participio.ingles: stopped
+infinitivo.castellano: detener
+participio.castellano: detenido
+gerundio.castellano: deteniendo
+raiz.castellano: deten
+tipo.irregular: 66
+ejemplo.irregularidad: tener
+
+# irregular    tipo 66 (ejemplo tener)
+infinitivo.ingles: have
+pasado.ingles: had
+participio.ingles: had
+infinitivo.castellano: tener
+participio.castellano: tenido
+gerundio.castellano: teniendo
+raiz.castellano: ten
+tipo.irregular: 66
+ejemplo.irregularidad: tener
+
+# irregular    tipo 66 (ejemplo tener)
+infinitivo.ingles: get
+pasado.ingles: got
+participio.ingles: got
+infinitivo.castellano: obtener
+participio.castellano: obtenido
+gerundio.castellano: obteniendo
+raiz.castellano: obten
+tipo.irregular: 66
+ejemplo.irregularidad: tener
+
+
+
+
+# irregular tipo 68 (transigir)
+infinitivo.ingles: address
+pasado.ingles: addressed
+participio.ingles: addressed
+infinitivo.castellano: dirigir
+participio.castellano: dirigido
+gerundio.castellano: dirigiendo
+raiz.castellano: dirig
+tipo.irregular: 68
+ejemplo.irregularidad: transigir
+
+
+# irregular tipo 71 (utilizar)    
+infinitivo.ingles:  
+pasado.ingles:  
+participio.ingles:  
+infinitivo.castellano: utilizar
+participio.castellano: utilizado
+gerundio.castellano: utilizando
+raiz.castellano: utiliz
+tipo.irregular: 71
+ejemplo.irregularidad: utilizar
+
+# irregular tipo 71 (utilizar)  
+infinitivo.ingles: dial
+pasado.ingles: dialed
+participio.ingles: dialed
+infinitivo.castellano: sintonizar
+participio.castellano: sintonizado
+gerundio.castellano: sintonizando
+raiz.castellano: sintoniz
+tipo.irregular: 71
+ejemplo.irregularidad: utilizar
+
+# irregular tipo 71 (utilizar)  
+infinitivo.ingles: cross
+pasado.ingles: crosssed
+participio.ingles: crosssed
+infinitivo.castellano: cruzar
+participio.castellano: cruzado
+gerundio.castellano: cruzando
+raiz.castellano: cruz
+tipo.irregular: 71
+ejemplo.irregularidad: utilizar
+
+# irregular tipo 71 (utilizar)  
+infinitivo.ingles: reach
+pasado.ingles: reached
+participio.ingles: reached
+infinitivo.castellano: alcanzar
+participio.castellano: alcanzado
+gerundio.castellano: alcanzando
+raiz.castellano: alcanz
+tipo.irregular: 71
+ejemplo.irregularidad: utilizar
+
+
+# irregular tipo 73 (vagar)
+infinitivo.ingles: judge
+pasado.ingles: judged
+participio.ingles: judged
+infinitivo.castellano: juzgar
+participio.castellano: juzgado
+gerundio.castellano: juzgando
+raiz.castellano: juzg
+tipo.irregular: 73
+ejemplo.irregularidad: vagar
+
+# irregular tipo 73 (vagar)
+infinitivo.ingles: deliver
+pasado.ingles: delivered
+participio.ingles: delivered
+infinitivo.castellano: entregar
+participio.castellano: entregado
+gerundio.castellano: entregando
+raiz.castellano: entreg
+tipo.irregular: 73
+ejemplo.irregularidad: vagar
+
+# irregular tipo 73 (vagar)
+infinitivo.ingles: charge
+pasado.ingles: charged
+participio.ingles: charged
+infinitivo.castellano: cargar
+participio.castellano: cargado
+gerundio.castellano: cargando
+raiz.castellano: carg
+tipo.irregular: 73
+ejemplo.irregularidad: vagar
+
+
+# verbos regulares en castellano e ingles
+
+# regular      
+infinitivo.ingles: act
+pasado.ingles: acted
+participio.ingles: acted
+infinitivo.castellano: actuar
+participio.castellano: actuado
+gerundio.castellano: actuando
+raiz.castellano: actu
+
+# regular
+infinitivo.ingles: arrest
+pasado.ingles: arrested
+participio.ingles: arrested
+infinitivo.castellano: arrestar
+participio.castellano: arrestado
+gerundio.castellano: arrestando
+raiz.castellano: arrest
+         
+# regular
+infinitivo.ingles: assist
+pasado.ingles: assisted
+participio.ingles: assisted
+infinitivo.castellano: ayudar
+participio.castellano: ayudado
+gerundio.castellano: ayudando
+raiz.castellano: ayud
+
+# regular
+infinitivo.ingles: attend
+pasado.ingles: attended
+participio.ingles: attended
+infinitivo.castellano: asistir
+participio.castellano: asistido
+gerundio.castellano: asistiendo
+raiz.castellano: asist
+
+
+# regular
+infinitivo.ingles: advertise
+pasado.ingles: advertised
+participio.ingles: advertised
+infinitivo.castellano: anunciar
+participio.castellano: anunciado
+gerundio.castellano: anunciando
+raiz.castellano: anunci
+
+# irregular
+infinitivo.ingles: amuse
+pasado.ingles: Amused
+participio.ingles: Amused
+infinitivo.castellano: entretener
+participio.castellano: entretenido
+gerundio.castellano: entreteniendo
+raiz.castellano: entreten
+
+
+# regular
+infinitivo.ingles: ask
+pasado.ingles: Asked
+participio.ingles: Asked
+infinitivo.castellano: preguntar
+participio.castellano: preguntado
+gerundio.castellano: preguntando
+raiz.castellano: pregunt
+
+# regular
+infinitivo.ingles: accompany
+pasado.ingles: accompanied
+participio.ingles: accompanied
+infinitivo.castellano: acompañar
+participio.castellano: acompañado
+gerundio.castellano: acompañando
+raiz.castellano: acompañ
+
+# irregular
+infinitivo.ingles: accustom
+pasado.ingles: accustomed
+participio.ingles: accustomed
+infinitivo.castellano: acostumbrar
+participio.castellano: acostumbrado
+gerundio.castellano: acostumbrando
+raiz.castellano: acostumbr
+
+# irregular
+infinitivo.ingles: agree
+pasado.ingles: agreed
+participio.ingles: agreed
+infinitivo.castellano: concordar
+participio.castellano: concordado
+gerundio.castellano: concordando
+raiz.castellano: concord
+
+# regular
+infinitivo.ingles: annoy
+pasado.ingles: annoyed
+participio.ingles: annoyed
+infinitivo.castellano: molestar
+participio.castellano: molestado
+gerundio.castellano: molestando
+raiz.castellano: molest
+
+# irregular
+infinitivo.ingles: answer
+pasado.ingles: answered
+participio.ingles: answered
+infinitivo.castellano: responder
+participio.castellano: respondido
+gerundio.castellano: respondiendo
+raiz.castellano: respond
+
+# irregular
+infinitivo.ingles: appeal
+pasado.ingles: applealed
+participio.ingles: applealed
+infinitivo.castellano: atraer
+participio.castellano: atraido
+gerundio.castellano: atraiendo
+raiz.castellano: atra
+
+# irregular
+infinitivo.ingles: appear
+pasado.ingles: appeared
+participio.ingles: appeared
+infinitivo.castellano: aparecer
+participio.castellano: aparecido
+gerundio.castellano: apareciendo
+raiz.castellano: aparec
+
+# regular
+infinitivo.ingles: arrange
+pasado.ingles: arranged
+participio.ingles: arranged
+infinitivo.castellano: arreglar
+participio.castellano: arreglado
+gerundio.castellano: arreglando
+raiz.castellano: arregl
+
+
+# regular
+infinitivo.ingles: board
+pasado.ingles: boarded
+participio.ingles: boarded
+infinitivo.castellano: abordar
+participio.castellano: abordado
+gerundio.castellano: abordando
+raiz.castellano: abord
+
+# regular
+infinitivo.ingles: balance
+pasado.ingles: balanced
+participio.ingles: balanced
+infinitivo.castellano: equilibrar
+participio.castellano: equilibrado
+gerundio.castellano: equilibrando
+raiz.castellano: equilibr
+
+# irregular
+infinitivo.ingles: banish
+pasado.ingles: banished
+participio.ingles: banished
+infinitivo.castellano: desterrar
+participio.castellano: desterrado
+gerundio.castellano: desterrando
+raiz.castellano: desterr
+
+# regular
+infinitivo.ingles: bark
+pasado.ingles: barked
+participio.ingles: barked
+infinitivo.castellano: ladrar
+participio.castellano: ladrado
+gerundio.castellano: ladrando
+raiz.castellano: ladr
+
+# irregular, Tipo 9
+infinitivo.ingles: bless
+pasado.ingles: blessed
+participio.ingles: blessed
+infinitivo.castellano: bendecir
+participio.castellano: bendecido
+gerundio.castellano: bendeciendo
+raiz.castellano: bendec
+
+# regular
+infinitivo.ingles: brush
+pasado.ingles: brushed
+participio.ingles: brushed
+infinitivo.castellano: cepillar
+participio.castellano: cepillado
+gerundio.castellano: cepillando
+raiz.castellano: cepill
+
+# regular
+infinitivo.ingles: behave
+pasado.ingles: behaved
+participio.ingles: behaved
+infinitivo.castellano: comportar
+participio.castellano: comportado
+gerundio.castellano: comportando
+raiz.castellano: comportar
+
+# irregular
+infinitivo.ingles: belong
+pasado.ingles: belonged
+participio.ingles: belonged
+infinitivo.castellano: pertenecer
+participio.castellano: pertenecido
+gerundio.castellano: perteneciendo
+raiz.castellano: pertenec
+
+# irregular
+infinitivo.ingles: believe
+pasado.ingles: believed
+participio.ingles: believed
+infinitivo.castellano: creer
+participio.castellano: creido
+gerundio.castellano: creiendo
+raiz.castellano: cre
+
+# irregular
+infinitivo.ingles: boil
+pasado.ingles: boiled
+participio.ingles: boiled
+infinitivo.castellano: hervir
+participio.castellano: hervido
+gerundio.castellano: herviendo
+raiz.castellano: herv
+
+# regular
+infinitivo.ingles: breathe
+pasado.ingles: breathed
+participio.ingles: breathed
+infinitivo.castellano: respirar
+participio.castellano: respirado
+gerundio.castellano: respirando
+raiz.castellano: respir
+
+# regular
+infinitivo.ingles: complete
+pasado.ingles: completed
+participio.ingles: completed
+infinitivo.castellano: completar
+participio.castellano: completado
+gerundio.castellano: completando
+raiz.castellano: complet
+
+# regular
+infinitivo.ingles: consist
+pasado.ingles: consisted
+participio.ingles: consisted
+infinitivo.castellano: consistir
+participio.castellano: consistido
+gerundio.castellano: consistiendo
+raiz.castellano: consist
+
+# irregular
+infinitivo.ingles: count
+pasado.ingles: counted
+participio.ingles: counted
+infinitivo.castellano: contar
+participio.castellano: contado
+gerundio.castellano: contando
+raiz.castellano: cont
+
+# irregular
+infinitivo.ingles: close
+pasado.ingles: closed
+participio.ingles: closed
+infinitivo.castellano: cerrar
+participio.castellano: cerrado
+gerundio.castellano: cerrando
+raiz.castellano: cerr
+
+# regular
+infinitivo.ingles: cook
+pasado.ingles: cooked
+participio.ingles: cooked
+infinitivo.castellano: cocinar
+participio.castellano: cocinado
+gerundio.castellano: cocinando
+raiz.castellano: cocin
+
+
+
+# regular
+infinitivo.ingles: call
+pasado.ingles: called
+participio.ingles: called
+infinitivo.castellano: llamar
+participio.castellano: llamado
+gerundio.castellano: llamando
+raiz.castellano: llam
+
+# regular
+infinitivo.ingles: care
+pasado.ingles: cared
+participio.ingles: cared
+infinitivo.castellano: cuidar
+participio.castellano: cuidado
+gerundio.castellano: cuidando
+raiz.castellano: cuid
+
+# regular
+infinitivo.ingles: carry
+pasado.ingles: carried
+participio.ingles: carried
+infinitivo.castellano: llevar
+participio.castellano: llevado
+gerundio.castellano: llevando
+raiz.castellano: llev
+
+# regular
+infinitivo.ingles: change
+pasado.ingles: changed
+participio.ingles: changed
+infinitivo.castellano: cambiar
+participio.castellano: cambiado
+gerundio.castellano: cambiando
+raiz.castellano: cambi
+
+# regular
+infinitivo.ingles: check
+pasado.ingles: checked
+participio.ingles: checked
+infinitivo.castellano: chequear
+participio.castellano: chequeado
+gerundio.castellano: chequeando
+raiz.castellano: cheque
+
+------ doble revision
+# regular
+infinitivo.ingles: charge
+pasado.ingles: charged
+participio.ingles: charged
+infinitivo.castellano: cobrar
+participio.castellano: cobrado
+gerundio.castellano: cobrando
+raiz.castellano: cobr
+
+# regular
+infinitivo.ingles: clean
+pasado.ingles: cleaned
+participio.ingles: cleaned
+infinitivo.castellano: limpiar
+participio.castellano: limpiado
+gerundio.castellano: limpiando
+raiz.castellano: limpi
+
+# regular
+infinitivo.ingles: climb
+pasado.ingles: climbed
+participio.ingles: climbed
+infinitivo.castellano: escalar
+participio.castellano: escalado
+gerundio.castellano: escalando
+raiz.castellano: escal
+
+# regular
+infinitivo.ingles: comb
+pasado.ingles: combed
+participio.ingles: combed
+infinitivo.castellano: peinar
+participio.castellano: peinado
+gerundio.castellano: peinando
+raiz.castellano: pein
+
+# participio irregular
+infinitivo.ingles: cover
+pasado.ingles: covered
+participio.ingles: covered
+infinitivo.castellano: cubrir
+participio.castellano: cubierto
+gerundio.castellano: cubriendo
+raiz.castellano: cubr
+
+# regular
+infinitivo.ingles: cry
+pasado.ingles: cried
+participio.ingles: cried
+infinitivo.castellano: llorar
+participio.castellano: llorado
+gerundio.castellano: llorando
+raiz.castellano: llor
+
+# regular
+infinitivo.ingles: crawl
+pasado.ingles: crawled
+participio.ingles: crawled
+infinitivo.castellano: gatear
+participio.castellano: gateado
+gerundio.castellano: gateando
+raiz.castellano: gate
+
+# regular
+infinitivo.ingles: dance
+pasado.ingles: danced
+participio.ingles: danced
+infinitivo.castellano: bailar
+participio.castellano: bailado
+gerundio.castellano: bailando
+raiz.castellano: bail
+
+# irregular
+infinitivo.ingles: dress
+pasado.ingles: dressed
+participio.ingles: dressed
+infinitivo.castellano: vestir
+participio.castellano: vestido
+gerundio.castellano: vestiendo
+raiz.castellano: vest
+
+# irregular
+infinitivo.ingles: dropp
+pasado.ingles: dropped
+participio.ingles: dropped
+infinitivo.castellano: caer
+participio.castellano: caido
+gerundio.castellano: caiendo
+raiz.castellano: ca
+
+
+
+
+# irregular
+infinitivo.ingles: die
+pasado.ingles: died
+participio.ingles: died
+infinitivo.castellano: morir
+participio.castellano: morido
+gerundio.castellano: moriendo
+raiz.castellano: mor
+
+# regular
+infinitivo.ingles: declare
+pasado.ingles: declared
+participio.ingles: declared
+infinitivo.castellano: declarar
+participio.castellano: declarado
+gerundio.castellano: declarando
+raiz.castellano: declar
+
+# regular
+infinitivo.ingles: delay
+pasado.ingles: delayed
+participio.ingles: delayed
+infinitivo.castellano: demorar
+participio.castellano: demorado
+gerundio.castellano: demorando
+raiz.castellano: demor
+
+
+
+# regular
+infinitivo.ingles: dine
+pasado.ingles: dined
+participio.ingles: dined
+infinitivo.castellano: cenar
+participio.castellano: cenado
+gerundio.castellano: cenando
+raiz.castellano: cen
+
+
+# irregular  tipo 29
+infinitivo.ingles: enclose
+pasado.ingles: enclosed
+participio.ingles: enclosed
+infinitivo.castellano: incluir
+participio.castellano: incluido
+gerundio.castellano: incluiendo
+tipo.irregular: 29
+raiz.castellano: inclu
+
+
+# irregular  tipo 29
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: disminuir
+participio.castellano: disminuido	
+gerundio.castellano: disminuyendo
+tipo.irregular: 29
+raiz.castellano: disminu
+
+
+# regular
+infinitivo.ingles: enjoy
+pasado.ingles: enjoyed
+participio.ingles: enjoyed
+infinitivo.castellano: disfrutar
+participio.castellano: disfrutado
+gerundio.castellano: disfrutando
+raiz.castellano: disfrut
+
+# regular
+infinitivo.ingles: engage
+pasado.ingles: engaged
+participio.ingles: engaged
+infinitivo.castellano: comprometer
+participio.castellano: comprometido
+gerundio.castellano: comprometiendo
+raiz.castellano: compromet
+
+# regular
+infinitivo.ingles: envy
+pasado.ingles: envied
+participio.ingles: envied
+infinitivo.castellano: envidiar
+participio.castellano: envidiado
+gerundio.castellano: envidiando
+raiz.castellano: envidi
+
+# regular aunque con dos participios
+infinitivo.ingles: express
+pasado.ingles: expressed
+participio.ingles: expressed
+infinitivo.castellano: expresar
+participio.castellano: expresado
+gerundio.castellano: expresando
+raiz.castellano: expres
+
+infinitivo.ingles: exclaim
+pasado.ingles: exclaimed
+participio.ingles: exclaimed
+infinitivo.castellano: exclamar
+participio.castellano: exclamado
+gerundio.castellano: exclamando
+raiz.castellano: exclam
+
+
+infinitivo.ingles: fail
+pasado.ingles: failed
+participio.ingles: failed
+infinitivo.castellano: fallar
+participio.castellano: fallado
+gerundio.castellano: fallando
+raiz.castellano: fall
+
+infinitivo.ingles: fasten
+pasado.ingles: fastended
+participio.ingles: fastended
+infinitivo.castellano: abrochar
+participio.castellano: abrochado
+gerundio.castellano: abrochando
+raiz.castellano: abroch
+
+infinitivo.ingles: file
+pasado.ingles: filed
+participio.ingles: filed
+infinitivo.castellano: archivar
+participio.castellano: archivado
+gerundio.castellano: archivando
+raiz.castellano: archiv
+
+infinitivo.ingles: fill
+pasado.ingles: filled
+participio.ingles: filled
+infinitivo.castellano: llenar
+participio.castellano: llenado
+gerundio.castellano: llenando
+raiz.castellano: llen
+
+infinitivo.ingles: fire
+pasado.ingles: fired
+participio.ingles: fired
+infinitivo.castellano: disparar
+participio.castellano: disparado
+gerundio.castellano: disparando
+raiz.castellano: dispar
+
+# irregular
+infinitivo.ingles: follow
+pasado.ingles: followed
+participio.ingles: followed
+infinitivo.castellano: seguir
+participio.castellano: seguido
+gerundio.castellano: seguiendo
+raiz.castellano: segu
+
+infinitivo.ingles: frighten
+pasado.ingles: frightened
+participio.ingles: frightened
+infinitivo.castellano: espantar
+participio.castellano: espantado
+gerundio.castellano: espantando
+raiz.castellano: espant
+
+infinitivo.ingles: fry
+pasado.ingles: fried
+participio.ingles: fried
+infinitivo.castellano: freir
+participio.castellano: freido
+gerundio.castellano: freiendo
+raiz.castellano: fre
+
+infinitivo.ingles: finish
+pasado.ingles: finished
+participio.ingles: finished
+infinitivo.castellano: terminar
+participio.castellano: terminado
+gerundio.castellano: terminando
+raiz.castellano: termin
+
+
+infinitivo.ingles: fix
+pasado.ingles: fixed
+participio.ingles: fixed
+infinitivo.castellano: fixed
+participio.castellano: null
+gerundio.castellano: null
+raiz.castellano: fix
+
+infinitivo.ingles: gain
+pasado.ingles: gained
+participio.ingles: gained
+infinitivo.castellano: ganar
+participio.castellano: ganado
+gerundio.castellano: ganando
+raiz.castellano: gan
+
+infinitivo.ingles: guess
+pasado.ingles: guessed
+participio.ingles: guessed
+infinitivo.castellano: adivinar
+participio.castellano: adivinado
+gerundio.castellano: adivinando
+raiz.castellano: adivin
+
+# regular
+infinitivo.ingles: help
+pasado.ingles: helped
+participio.ingles: helped
+infinitivo.castellano: ayudar
+participio.castellano: ayudado
+gerundio.castellano: ayudando
+raiz.castellano: ayud
+
+# regular
+infinitivo.ingles: hope
+pasado.ingles: hoped
+participio.ingles: hoped
+infinitivo.castellano: esperar
+participio.castellano: esperado
+gerundio.castellano: esperando
+raiz.castellano: esper
+
+# regular
+infinitivo.ingles: happen
+pasado.ingles: happened
+participio.ingles: happened
+infinitivo.castellano: suceder
+participio.castellano: sucedido
+gerundio.castellano: sucediendo
+raiz.castellano: suced
+
+# regular
+infinitivo.ingles: hurry
+pasado.ingles: hurried
+participio.ingles: hurried
+infinitivo.castellano: apurar
+participio.castellano: apurado
+gerundio.castellano: apurando
+raiz.castellano: apur
+
+# regular
+infinitivo.ingles: imagine
+pasado.ingles: imagined
+participio.ingles: imagined
+infinitivo.castellano: imaginar
+participio.castellano: imaginado
+gerundio.castellano: imaginando
+raiz.castellano: imagin
+
+planchar
+infinitivo.ingles: iron
+pasado.ingles: ironed
+participio.ingles: ironed
+infinitivo.castellano: planchar
+participio.castellano: planchado
+gerundio.castellano: planchando
+raiz.castellano: planch
+
+
+
+infinitivo.ingles: kiss
+pasado.ingles: kissed
+participio.ingles: kissed
+infinitivo.castellano: besar
+participio.castellano: besado
+gerundio.castellano: besando
+raiz.castellano: bes
+
+infinitivo.ingles: kill
+pasado.ingles: killed
+participio.ingles: killed
+infinitivo.castellano: matar
+participio.castellano: matado
+gerundio.castellano: matando
+raiz.castellano: mat
+
+infinitivo.ingles: laugh
+pasado.ingles: laughged
+participio.ingles: laughged
+infinitivo.castellano: reir
+participio.castellano: reido
+gerundio.castellano: reiendo
+raiz.castellano: re
+
+infinitivo.ingles: leak
+pasado.ingles: leaked
+participio.ingles: leaked
+infinitivo.castellano: gotear
+participio.castellano: goteado
+gerundio.castellano: goteando
+raiz.castellano: gote
+
+infinitivo.ingles: like
+pasado.ingles: liked
+participio.ingles: liked
+infinitivo.castellano: gustar
+participio.castellano: gustado
+gerundio.castellano: gustando
+raiz.castellano: gust
+
+# irregular
+infinitivo.ingles: lock
+pasado.ingles: locked
+participio.ingles: locked
+infinitivo.castellano: cerrar
+participio.castellano: cerrado
+gerundio.castellano: cerrando
+raiz.castellano: cerr
+
+infinitivo.ingles: look
+pasado.ingles: looked
+participio.ingles: looked
+infinitivo.castellano: mirar
+participio.castellano: mirado
+gerundio.castellano: mirando
+raiz.castellano: mir
+
+
+infinitivo.ingles: mark
+pasado.ingles: marked
+participio.ingles: marked
+infinitivo.castellano: señalar
+participio.castellano: señalado
+gerundio.castellano: señalando
+raiz.castellano: señal
+
+infinitivo.ingles: milk
+pasado.ingles: milked
+participio.ingles: milked
+infinitivo.castellano: ordeñar
+participio.castellano: ordeñado
+gerundio.castellano: ordeñando
+raiz.castellano: ordeñ
+
+infinitivo.ingles: miss
+pasado.ingles: missed
+participio.ingles: missed
+infinitivo.castellano: extrañar
+participio.castellano: extrañado
+gerundio.castellano: extrañando
+raiz.castellano: extrañ
+
+infinitivo.ingles: manage
+pasado.ingles: managed
+participio.ingles: managed
+infinitivo.castellano: manejar
+participio.castellano: manejado
+gerundio.castellano: manejando
+raiz.castellano: manej
+
+infinitivo.ingles: marry
+pasado.ingles: married
+participio.ingles: married
+infinitivo.castellano: casar
+participio.castellano: casado
+gerundio.castellano: casando
+raiz.castellano: cas
+
+infinitivo.ingles: massage
+pasado.ingles: massaged
+participio.ingles: massaged
+infinitivo.castellano: masajear
+participio.castellano: masajeado
+gerundio.castellano: masajeando
+raiz.castellano: masaje
+
+infinitivo.ingles: measure
+pasado.ingles: measured
+participio.ingles: measured
+infinitivo.castellano: medir
+participio.castellano: medido
+gerundio.castellano: mediendo
+raiz.castellano: med
+
+infinitivo.ingles: move
+pasado.ingles: moved
+participio.ingles: moved
+infinitivo.castellano: mover
+participio.castellano: movido
+gerundio.castellano: moviendo
+raiz.castellano: mov
+
+infinitivo.ingles: observe
+pasado.ingles: observed
+participio.ingles: observed
+infinitivo.castellano: observar
+participio.castellano: observado
+gerundio.castellano: observando
+raiz.castellano: observ
+
+infinitivo.ingles: offer
+pasado.ingles: offered
+participio.ingles: offered
+infinitivo.castellano: ofrecer
+participio.castellano: ofrecido
+gerundio.castellano: ofreciendo
+raiz.castellano: ofrec
+
+infinitivo.ingles: open
+pasado.ingles: opened
+participio.ingles: opened
+infinitivo.castellano: abrir
+participio.castellano: abrido
+gerundio.castellano: abriendo
+raiz.castellano: abr
+
+infinitivo.ingles: order
+pasado.ingles: ordered
+participio.ingles: ordered
+infinitivo.castellano: ordenar
+participio.castellano: ordenado
+gerundio.castellano: ordenando
+raiz.castellano: orden
+
+infinitivo.ingles: peform
+pasado.ingles: performed
+participio.ingles: performed
+infinitivo.castellano: ejecutar
+participio.castellano: ejecutado
+gerundio.castellano: ejecutando
+raiz.castellano: ejecut
+
+infinitivo.ingles: phone
+pasado.ingles: phoned
+participio.ingles: phoned
+infinitivo.castellano: telefonear
+participio.castellano: telefoneado
+gerundio.castellano: telefoneando
+raiz.castellano: telefone
+
+infinitivo.ingles: plan
+pasado.ingles: planned
+participio.ingles: planned
+infinitivo.castellano: planear
+participio.castellano: planeado
+gerundio.castellano: planeando
+raiz.castellano: plane
+
+
+# irregular
+infinitivo.ingles: arrive
+pasado.ingles: arrived
+participio.ingles: arrived
+infinitivo.castellano: llegar
+participio.castellano: llegaba
+gerundio.castellano: llegando
+raiz.castellano: arrib
+
+
+# irregular tipo 13 (como cerrar)
+infinitivo.ingles: deny
+pasado.ingles: denied
+participio.ingles: denied
+infinitivo.castellano: negar
+participio.castellano: negado
+gerundio.castellano: negando
+raiz.castellano: neg
+
+# irregular de tipo 32
+infinitivo.ingles: play
+pasado.ingles: played
+participio.ingles: played
+infinitivo.castellano: jugar
+participio.castellano: jugado
+gerundio.castellano: jugando
+raiz.castellano: jug
+
+infinitivo.ingles: plough
+pasado.ingles: ploughed
+participio.ingles: ploughed
+infinitivo.castellano: arar
+participio.castellano: arado
+gerundio.castellano: arando
+raiz.castellano: ar
+
+infinitivo.ingles: pour
+pasado.ingles: poured
+participio.ingles: poured
+infinitivo.castellano: derramar
+participio.castellano: derramado
+gerundio.castellano: derramando
+raiz.castellano: derram
+
+
+# irregular
+infinitivo.ingles: pour
+pasado.ingles: poured
+participio.ingles: poured
+infinitivo.castellano: verter
+participio.castellano: vertido
+gerundio.castellano: vertiendo
+raiz.castellano: vert
+
+infinitivo.ingles: pray
+pasado.ingles: prayed
+participio.ingles: prayed
+infinitivo.castellano: orar
+participio.castellano: orado
+gerundio.castellano: orando
+raiz.castellano: or
+
+infinitivo.ingles: prefer
+pasado.ingles: prefered
+participio.ingles: prefered
+infinitivo.castellano: preferir
+participio.castellano: preferido
+gerundio.castellano: preferiendo
+raiz.castellano: prefer
+
+infinitivo.ingles: prepare
+pasado.ingles: prepared
+participio.ingles: prepared
+infinitivo.castellano: preparar
+participio.castellano: preparado
+gerundio.castellano: preparando
+raiz.castellano: prepar
+
+infinitivo.ingles: pull
+pasado.ingles: pulled
+participio.ingles: pulled
+infinitivo.castellano: tirar
+participio.castellano: tirado
+gerundio.castellano: tirando
+raiz.castellano: tir
+
+infinitivo.ingles: park
+pasado.ingles: parked
+participio.ingles: parked
+infinitivo.castellano: estacionar
+participio.castellano: estacionado
+gerundio.castellano: estacionando
+raiz.castellano: estacion
+
+infinitivo.ingles: pass
+pasado.ingles: passed
+participio.ingles: passed
+infinitivo.castellano: pasar
+participio.castellano: pasado
+gerundio.castellano: pasando
+raiz.castellano: pas
+
+infinitivo.ingles: pick
+pasado.ingles: picked
+participio.ingles: picked
+infinitivo.castellano: recoger
+participio.castellano: recogido
+gerundio.castellano: recogiendo
+raiz.castellano: recog
+
+infinitivo.ingles: please
+pasado.ingles: pleased
+participio.ingles: pleased
+infinitivo.castellano: complacer
+participio.castellano: complacido
+gerundio.castellano: complaciendo
+raiz.castellano: complac
+
+infinitivo.ingles: polish
+pasado.ingles: polished
+participio.ingles: polished
+infinitivo.castellano: pulir
+participio.castellano: pulido
+gerundio.castellano: puliendo
+raiz.castellano: pul
+
+
+infinitivo.ingles: promise
+pasado.ingles: promised
+participio.ingles: promised
+infinitivo.castellano: prometer
+participio.castellano: prometido
+gerundio.castellano: prometiendo
+raiz.castellano: promet
+
+infinitivo.ingles: pronounce
+pasado.ingles: pronounced
+participio.ingles: pronounced
+infinitivo.castellano: pronunciar
+participio.castellano: pronunciado
+gerundio.castellano: pronunciando
+raiz.castellano: pronunci
+
+infinitivo.ingles: punish
+pasado.ingles: punished
+participio.ingles: punished
+infinitivo.castellano: castigar
+participio.castellano: castigado
+gerundio.castellano: castigando
+raiz.castellano: castig
+
+infinitivo.ingles: push
+pasado.ingles: pushed
+participio.ingles: pushed
+infinitivo.castellano: empujar
+participio.castellano: empujado
+gerundio.castellano: empujando
+raiz.castellano: empuj
+
+infinitivo.ingles: repeat
+pasado.ingles: repeated
+participio.ingles: repeated
+infinitivo.castellano: repetir
+participio.castellano: repetido
+gerundio.castellano: repetiendo
+raiz.castellano: repet
+
+infinitivo.ingles: report
+pasado.ingles: reported
+participio.ingles: reported
+infinitivo.castellano: reportar
+participio.castellano: reportado
+gerundio.castellano: reportando
+raiz.castellano: report
+
+infinitivo.ingles: report
+pasado.ingles: reported
+participio.ingles: reported
+infinitivo.castellano: informar
+participio.castellano: informado
+gerundio.castellano: informando
+raiz.castellano: inform
+
+infinitivo.ingles: request
+pasado.ingles: requested
+participio.ingles: requested
+infinitivo.castellano: solicitar
+participio.castellano: solicitado
+gerundio.castellano: solicitando
+raiz.castellano: solicit
+
+infinitivo.ingles: rest
+pasado.ingles: rested
+participio.ingles: rested
+infinitivo.castellano: descansar
+participio.castellano: descansado
+gerundio.castellano: descansando
+raiz.castellano: descans
+
+
+infinitivo.ingles: refuse
+pasado.ingles: refused
+participio.ingles: refused
+infinitivo.castellano: rehusar
+participio.castellano: rehusado
+gerundio.castellano: rehusando
+raiz.castellano: rehus
+
+infinitivo.ingles: raise
+pasado.ingles: raised
+participio.ingles: raised
+infinitivo.castellano: levantar
+participio.castellano: levantado
+gerundio.castellano: levantando
+raiz.castellano: levant
+
+infinitivo.ingles: rain
+pasado.ingles: rained
+participio.ingles: rained
+infinitivo.castellano: llover
+participio.castellano: llovido
+gerundio.castellano: lloviendo
+raiz.castellano: llov
+
+infinitivo.ingles: register
+pasado.ingles: registered
+participio.ingles: registered
+infinitivo.castellano: registrar
+participio.castellano: registrado
+gerundio.castellano: registrando
+raiz.castellano: registr
+
+infinitivo.ingles: receive
+pasado.ingles: received
+participio.ingles: received
+infinitivo.castellano: recibir
+participio.castellano: recibido
+gerundio.castellano: recibiendo
+raiz.castellano: recib
+
+infinitivo.ingles: remenber
+pasado.ingles: remenbered
+participio.ingles: remenbered
+infinitivo.castellano: recordar
+participio.castellano: recordado
+gerundio.castellano: recordando
+raiz.castellano: record
+
+infinitivo.ingles: repair
+pasado.ingles: pepaired
+participio.ingles: pepaired
+infinitivo.castellano: reparar
+participio.castellano: reparado
+gerundio.castellano: reparando
+raiz.castellano: repar
+
+infinitivo.ingles: require
+pasado.ingles: required
+participio.ingles: required
+infinitivo.castellano: requerir
+participio.castellano: requerido
+gerundio.castellano: requeriendo
+raiz.castellano: requer
+
+infinitivo.ingles: reserve
+pasado.ingles: reserved
+participio.ingles: reserved
+infinitivo.castellano: reservar
+participio.castellano: reservado
+gerundio.castellano: reservando
+raiz.castellano: reserv
+
+infinitivo.ingles: row
+pasado.ingles: rowed
+participio.ingles: rowed
+infinitivo.castellano: remar
+participio.castellano: remado
+gerundio.castellano: remando
+raiz.castellano: rem
+
+infinitivo.ingles: resolve
+pasado.ingles: resolved
+participio.ingles: resolved
+infinitivo.castellano: resolver
+participio.castellano: resolvido
+gerundio.castellano: resolviendo
+raiz.castellano: resolv
+
+infinitivo.ingles: return
+pasado.ingles: returned
+participio.ingles: returned
+infinitivo.castellano: retornar
+participio.castellano: retornado
+gerundio.castellano: retornando
+raiz.castellano: retorn
+
+# irregular
+infinitivo.ingles: return
+pasado.ingles: returned
+participio.ingles: returned
+infinitivo.castellano: volver
+participio.castellano: volvido
+gerundio.castellano: volviendo
+raiz.castellano: volv
+
+
+infinitivo.ingles: save
+pasado.ingles: saved
+participio.ingles: saved
+infinitivo.castellano: salvar
+participio.castellano: salvado
+gerundio.castellano: salvando
+raiz.castellano: salv
+
+# irregular
+infinitivo.ingles: serve
+pasado.ingles: served
+participio.ingles: served
+infinitivo.castellano: servir
+participio.castellano: servido
+gerundio.castellano: serviendo
+raiz.castellano: serv
+
+infinitivo.ingles: settle
+pasado.ingles: settled
+participio.ingles: settled
+infinitivo.castellano: establecer
+participio.castellano: establecido
+gerundio.castellano: estableciendo
+raiz.castellano: establec
+
+infinitivo.ingles: sign
+pasado.ingles: signed
+participio.ingles: signed
+infinitivo.castellano: firmar
+participio.castellano: firmado
+gerundio.castellano: firmando
+raiz.castellano: firm
+
+infinitivo.ingles: smile
+pasado.ingles: smiled
+participio.ingles: smiled
+infinitivo.castellano: sonreir
+participio.castellano: sonreido
+gerundio.castellano: sonreiendo
+raiz.castellano: sonre
+
+infinitivo.ingles: snow
+pasado.ingles: snowed
+participio.ingles: snowed
+infinitivo.castellano: nevar
+participio.castellano: nevado
+gerundio.castellano: nevando
+raiz.castellano: nev
+
+infinitivo.ingles: spill
+pasado.ingles: spilled
+participio.ingles: spilled
+infinitivo.castellano: derramar
+participio.castellano: derramado
+gerundio.castellano: derramando
+raiz.castellano: derram
+
+infinitivo.ingles: stay
+pasado.ingles: stayed
+participio.ingles: stayed
+infinitivo.castellano: permanecer
+participio.castellano: permanecido
+gerundio.castellano: permaneciendo
+raiz.castellano: permanec
+
+infinitivo.ingles: study
+pasado.ingles: studied
+participio.ingles: studied
+infinitivo.castellano: estudiar
+participio.castellano: estudiado
+gerundio.castellano: estudiando
+raiz.castellano: estudi
+
+infinitivo.ingles: suffer
+pasado.ingles: suffered
+participio.ingles: suffered
+infinitivo.castellano: sufrir
+participio.castellano: sufrido
+gerundio.castellano: sufriendo
+raiz.castellano: sufr
+
+infinitivo.ingles: swallow
+pasado.ingles: swallowed
+participio.ingles: swallowed
+infinitivo.castellano: tragar
+participio.castellano: tragado
+gerundio.castellano: tragando
+raiz.castellano: trag
+
+infinitivo.ingles: slip
+pasado.ingles: slipped
+participio.ingles: slipped
+infinitivo.castellano: resbalar
+participio.castellano: resbalado
+gerundio.castellano: resbalando
+raiz.castellano: resbal
+
+infinitivo.ingles: smoke
+pasado.ingles: smoked
+participio.ingles: smoked
+infinitivo.castellano: fumar
+participio.castellano: fumado
+gerundio.castellano: fumando
+raiz.castellano: fum
+
+# irregular
+
+
+infinitivo.ingles: stop
+pasado.ingles: stopped
+participio.ingles: stopped
+infinitivo.castellano: parar
+participio.castellano: parado
+gerundio.castellano: parando
+raiz.castellano: par
+
+infinitivo.ingles: switch
+pasado.ingles: switched
+participio.ingles: switched
+infinitivo.castellano: conectar
+participio.castellano: conectado
+gerundio.castellano: conectando
+raiz.castellano: conect
+
+infinitivo.ingles: switch
+pasado.ingles: switched
+participio.ingles: switched
+infinitivo.castellano: accionar
+participio.castellano: accionado
+gerundio.castellano: accionando
+raiz.castellano: accion
+
+infinitivo.ingles: stretch
+pasado.ingles: stretched
+participio.ingles: stretched
+infinitivo.castellano: estirar
+participio.castellano: estirado
+gerundio.castellano: estirando
+raiz.castellano: estir
+
+infinitivo.ingles: talk
+pasado.ingles: talked
+participio.ingles: talked
+infinitivo.castellano: conversar
+participio.castellano: conversado
+gerundio.castellano: conversando
+raiz.castellano: convers
+
+infinitivo.ingles: thank
+pasado.ingles: thanked
+participio.ingles: thanked
+infinitivo.castellano: agradecer
+participio.castellano: agradecido
+gerundio.castellano: agradeciendo
+raiz.castellano: agradec
+
+
+infinitivo.ingles: touch
+pasado.ingles: touched
+participio.ingles: touched
+infinitivo.castellano: palpar
+participio.castellano: palpado
+gerundio.castellano: palpando
+raiz.castellano: palp
+
+infinitivo.ingles: trap
+pasado.ingles: trapped
+participio.ingles: trapped
+infinitivo.castellano: atrapar
+participio.castellano: atrapado
+gerundio.castellano: atrapando
+raiz.castellano: atrap
+
+infinitivo.ingles: tire
+pasado.ingles: tired
+participio.ingles: tired
+infinitivo.castellano: cansar
+participio.castellano: cansado
+gerundio.castellano: cansando
+raiz.castellano: cans
+
+infinitivo.ingles: tire
+pasado.ingles: tired
+participio.ingles: tired
+infinitivo.castellano: fatigar
+participio.castellano: fatigado
+gerundio.castellano: fatigando
+raiz.castellano: fatig
+
+infinitivo.ingles: train
+pasado.ingles: trained
+participio.ingles: trained
+infinitivo.castellano: entrenar
+participio.castellano: entrenado
+gerundio.castellano: entrenando
+raiz.castellano: entren
+
+infinitivo.ingles: travel
+pasado.ingles: traveled
+participio.ingles: traveled
+infinitivo.castellano: viajar
+participio.castellano: viajado
+gerundio.castellano: viajando
+raiz.castellano: viaj
+
+infinitivo.ingles: trouble
+pasado.ingles: troubled
+participio.ingles: troubled
+infinitivo.castellano: molestar
+participio.castellano: molestado
+gerundio.castellano: molestando
+raiz.castellano: molest
+
+infinitivo.ingles: try
+pasado.ingles: tried
+participio.ingles: tried
+infinitivo.castellano: intantar
+participio.castellano: intantado
+gerundio.castellano: intantando
+raiz.castellano: intant
+
+infinitivo.ingles: try
+pasado.ingles: tried
+participio.ingles: tried
+infinitivo.castellano: tratar
+participio.castellano: tratado
+gerundio.castellano: tratando
+raiz.castellano: trat
+
+infinitivo.ingles: turn
+pasado.ingles: turned
+participio.ingles: turned
+infinitivo.castellano: girar
+participio.castellano: girado
+gerundio.castellano: girando
+raiz.castellano: gir
+
+infinitivo.ingles: turn
+pasado.ingles: turned
+participio.ingles: turned
+infinitivo.castellano: voltear
+participio.castellano: volteado
+gerundio.castellano: volteando
+raiz.castellano: volte
+
+infinitivo.ingles: unpack
+pasado.ingles: unpacked
+participio.ingles: unpacked
+infinitivo.castellano: desempaquetar
+participio.castellano: desempaquetado
+gerundio.castellano: desempaquetando
+raiz.castellano: desempaquet
+
+infinitivo.ingles: use
+pasado.ingles: used
+participio.ingles: used
+infinitivo.castellano: usar
+participio.castellano: usado
+gerundio.castellano: usando
+raiz.castellano: us
+
+infinitivo.ingles: visit
+pasado.ingles: visited
+participio.ingles: visited
+infinitivo.castellano: visitar
+participio.castellano: visitado
+gerundio.castellano: visitando
+raiz.castellano: visit
+
+# regular
+infinitivo.ingles: wait
+pasado.ingles: waited
+participio.ingles: waited
+infinitivo.castellano: esperar
+participio.castellano: esperado
+gerundio.castellano: esperando
+raiz.castellano: esper
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+participio.ingles: wanted
+infinitivo.castellano: necesitar
+participio.castellano: necesitado
+gerundio.castellano: necesitando
+raiz.castellano: necesit
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+participio.ingles: wanted
+infinitivo.castellano: requerir
+participio.castellano: requerido
+gerundio.castellano: requeriendo
+raiz.castellano: requer
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+participio.ingles: wanted
+infinitivo.castellano: desear
+participio.castellano: deseado
+gerundio.castellano: deseando
+raiz.castellano: dese
+
+infinitivo.ingles: want
+pasado.ingles: wanted
+participio.ingles: wanted
+infinitivo.castellano: querer
+participio.castellano: querido
+gerundio.castellano: queriendo
+raiz.castellano: quer
+
+infinitivo.ingles: walk
+pasado.ingles: walked
+participio.ingles: walked
+infinitivo.castellano: caminar
+participio.castellano: caminado
+gerundio.castellano: caminando
+raiz.castellano: camin
+
+infinitivo.ingles: wash
+pasado.ingles: washed
+participio.ingles: washed
+infinitivo.castellano: lavar
+participio.castellano: lavado
+gerundio.castellano: lavando
+raiz.castellano: lav
+
+infinitivo.ingles: watch
+pasado.ingles: watched
+participio.ingles: watched
+infinitivo.castellano: observar
+participio.castellano: observado
+gerundio.castellano: observando
+raiz.castellano: observ
+
+infinitivo.ingles: watch
+pasado.ingles: watched
+participio.ingles: watched
+infinitivo.castellano: mirar
+participio.castellano: mirado
+gerundio.castellano: mirando
+raiz.castellano: mir
+
+infinitivo.ingles: wish
+pasado.ingles: wished
+participio.ingles: wished
+infinitivo.castellano: desear
+participio.castellano: deseado
+gerundio.castellano: deseando
+raiz.castellano: dese
+
+infinitivo.ingles: wish
+pasado.ingles: wished
+participio.ingles: wished
+infinitivo.castellano: anhelar
+participio.castellano: anhelado
+gerundio.castellano: anhelando
+raiz.castellano: anhel
+
+infinitivo.ingles: work
+pasado.ingles: worked
+participio.ingles: worked
+infinitivo.castellano: trabajar
+participio.castellano: trabajado
+gerundio.castellano: trabajando
+raiz.castellano: trabaj
+
+# irregular
+infinitivo.ingles: wrap up
+pasado.ingles: wrapped up
+participio.ingles: wrapped up
+infinitivo.castellano: envolver
+participio.castellano: envolvido
+gerundio.castellano: envolviendo
+raiz.castellano: envolv
+
+infinitivo.ingles: wreck
+infinitivo.castellano: naufragar
+participio.castellano: naufragado
+gerundio.castellano: naufragando
+raiz.castellano: naufrag
+
+infinitivo.ingles: warm
+pasado.ingles: warmed
+participio.ingles: warmed
+infinitivo.castellano: calentar
+participio.castellano: calentado
+gerundio.castellano: calentando
+raiz.castellano: calent
+
+infinitivo.ingles: warn
+pasado.ingles: warned
+participio.ingles: warned
+infinitivo.castellano: advertir
+participio.castellano: advertido
+gerundio.castellano: advertiendo
+raiz.castellano: advert
+
+infinitivo.ingles: water
+pasado.ingles: watered
+participio.ingles: watered
+infinitivo.castellano: regar
+participio.castellano: regado
+gerundio.castellano: regando
+raiz.castellano: reg
+
+infinitivo.ingles: weigh
+pasado.ingles: weighed
+participio.ingles: weighed
+infinitivo.castellano: pesar
+participio.castellano: pesado
+gerundio.castellano: pesando
+raiz.castellano: pes
+
+infinitivo.ingles: whistle
+pasado.ingles: whistled
+participio.ingles: whistled
+infinitivo.castellano: silbar
+participio.castellano: silbado
+gerundio.castellano: silbando
+raiz.castellano: silb
+
+# verbos añadidos para Javier
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: sumar
+participio.castellano: sumado
+gerundio.castellano: sumando
+raiz.castellano: sum
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: restar
+participio.castellano: restado
+gerundio.castellano: restando
+raiz.castellano: rest
+
+# este verbo presenta alguna irregularidad
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: conducir
+participio.castellano: conducido
+gerundio.castellano: conduciendo
+raiz.castellano: conduc
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: aumentar
+participio.castellano: aumentado	
+gerundio.castellano: aumentando
+raiz.castellano: aument
+
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: incrementar
+participio.castellano: incrementado	
+gerundio.castellano: incrementando
+raiz.castellano: increment
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: numerar
+participio.castellano: numerado	
+gerundio.castellano: numerando
+raiz.castellano: numer
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: cancelar
+participio.castellano: cancelado	
+gerundio.castellano: cancelando
+raiz.castellano: cancel
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: subir
+participio.castellano: subido	
+gerundio.castellano: subiendo
+raiz.castellano: sub
+
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: bajar
+participio.castellano: bajado	
+gerundio.castellano: bajando
+raiz.castellano: baj
+
+
+
+infinitivo.ingles: 
+pasado.ingles: 
+participio.ingles:
+infinitivo.castellano: montar
+participio.castellano: montado	
+gerundio.castellano: montando
+raiz.castellano: mont
+ 

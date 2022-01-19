@@ -1,0 +1,3 @@
+unir = to join
+usar = to use
+utilizar = to use

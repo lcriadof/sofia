@@ -1,0 +1,5 @@
+quedar = to stay
+quedarse = to keep
+quejarse = to complain
+quemar = to burn
+quitar = to take away

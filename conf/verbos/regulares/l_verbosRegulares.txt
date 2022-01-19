@@ -1,0 +1,15 @@
+lanzar = to throw
+lavar = to wash
+lavarse = to wash
+leer = to read
+levantar = to raise
+levantarse = to get up
+limitar = to limit
+limpiar = to clean
+llamar = to call
+llamarse = to be called
+llegar = to arrive
+llenar = to fill
+llevar = to carry
+llorar = to cry
+luchar = to fight

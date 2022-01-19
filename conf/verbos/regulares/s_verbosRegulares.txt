@@ -1,0 +1,14 @@
+sacar = to take out
+saltar = to jump
+saludar = to greet
+seleccionar = to pick
+separar = to separate
+situar = to place
+solucionar = to solve
+soportar = to support
+sorprender = to surprise
+subir = to raise
+suceder = to happen
+superar = to overcome
+suspender = to suspend
+

@@ -1,0 +1,12 @@
+ganar = to gain
+garantizar = to guarantee
+gastar = to spend
+generalizar = to generalize
+generar = to generate
+girar = to turn
+golpear = to hit
+gritar = to shout
+guardar = to keep
+guiar = to guide
+gustar = to like
+ 

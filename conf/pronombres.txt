@@ -1,0 +1,131 @@
+#pronombres
+#
+pronombres.castellano.personales: yo 
+pronombres.castellano.personales: tú 
+pronombres.castellano.personales: él 
+pronombres.castellano.personales: ella 
+pronombres.castellano.personales: nosotros 
+pronombres.castellano.personales: nosotras 
+pronombres.castellano.personales: vosotros 
+pronombres.castellano.personales: vosotras 
+pronombres.castellano.personales: ellos 
+pronombres.castellano.personales: ellas 
+#
+pronombres.castellano.demostrativos.cercania: éste 
+pronombres.castellano.demostrativos.cercania: ésta 
+pronombres.castellano.demostrativos.cercania: esto 
+pronombres.castellano.demostrativos.cercania: éstos 
+pronombres.castellano.demostrativos.cercania: éstas 
+#
+pronombres.castellano.demostrativos.distanciamedia: ése 
+pronombres.castellano.demostrativos.distanciamedia: ésa 
+pronombres.castellano.demostrativos.distanciamedia: eso 
+pronombres.castellano.demostrativos.distanciamedia: ésos 
+pronombres.castellano.demostrativos.distanciamedia: ésas 
+#
+pronombres.castellano.demostrativos.lejania: aquél 
+pronombres.castellano.demostrativos.lejania: aquélla 
+pronombres.castellano.demostrativos.lejania: aquello 
+pronombres.castellano.demostrativos.lejania: aquéllos 
+pronombres.castellano.demostrativos.lejania: aquéllas 
+#
+# Posesivos, Un poseedor
+pronombres.castellano.posesivos.uno: mío 
+pronombres.castellano.posesivos.uno: mía 
+pronombres.castellano.posesivos.uno: míos 
+pronombres.castellano.posesivos.uno: mías 
+pronombres.castellano.posesivos.uno: tuyo 
+pronombres.castellano.posesivos.uno: tuya 
+pronombres.castellano.posesivos.uno: tuyos 
+pronombres.castellano.posesivos.uno: tuyas
+pronombres.castellano.posesivos.uno: suyo 
+pronombres.castellano.posesivos.uno: suya 
+pronombres.castellano.posesivos.uno: suyos 
+pronombres.castellano.posesivos.uno: suyas 
+#
+# Posesivos, Varios poseedores
+pronombres.castellano.posesivos.varios: nuestro
+pronombres.castellano.posesivos.varios: nuestra
+pronombres.castellano.posesivos.varios: nuestros
+pronombres.castellano.posesivos.varios: nuestras
+pronombres.castellano.posesivos.varios: vuestro
+pronombres.castellano.posesivos.varios: vuestra
+pronombres.castellano.posesivos.varios: vuestros
+pronombres.castellano.posesivos.varios: vuestras
+pronombres.castellano.posesivos.varios: suyo
+pronombres.castellano.posesivos.varios: suya
+pronombres.castellano.posesivos.varios: suyos
+pronombres.castellano.posesivos.varios: suyas
+#
+# Indefinidos
+pronombres.castellano.indefinidos: un 
+pronombres.castellano.indefinidos: uno 
+pronombres.castellano.indefinidos: una 
+pronombres.castellano.indefinidos: alguno 
+pronombres.castellano.indefinidos: alguien 
+pronombres.castellano.indefinidos: cualquiera 
+pronombres.castellano.indefinidos: nadie 
+pronombres.castellano.indefinidos: ninguno 
+pronombres.castellano.indefinidos: pocos 
+pronombres.castellano.indefinidos: muchos
+pronombres.castellano.indefinidos: escasos 
+pronombres.castellano.indefinidos: demasiados 
+pronombres.castellano.indefinidos: bastantes 
+pronombres.castellano.indefinidos: varios 
+pronombres.castellano.indefinidos: otros 
+pronombres.castellano.indefinidos: tantos 
+pronombres.castellano.indefinidos: tales 
+#
+# Relativos
+pronombres.castellano.relativos: que
+pronombres.castellano.relativos: el cual 
+pronombres.castellano.relativos: la cual 
+pronombres.castellano.relativos: lo cual 
+pronombres.castellano.relativos: los cuales 
+pronombres.castellano.relativos: las cuales 
+pronombres.castellano.relativos: quien 
+pronombres.castellano.relativos: quienes 
+pronombres.castellano.relativos: cuyo 
+pronombres.castellano.relativos: cuya 
+pronombres.castellano.relativos: cuyos 
+pronombres.castellano.relativos: cuyas 
+pronombres.castellano.relativos: donde 
+#
+# Numerales Cardinales
+pronombres.castellano.numerales.cardinales: uno 
+pronombres.castellano.numerales.cardinales: dos
+pronombres.castellano.numerales.cardinales: tres
+pronombres.castellano.numerales.cardinales: cuatro
+pronombres.castellano.numerales.cardinales: cinco
+#
+# Numerales Ordinales
+pronombres.castellano.numerales.ordinales: primero 
+pronombres.castellano.numerales.ordinales: segundo 
+pronombres.castellano.numerales.ordinales: tercero 
+pronombres.castellano.numerales.ordinales: cuarto 
+pronombres.castellano.numerales.ordinales: quinto 
+#
+# Numerales Fraccionarios
+Fraccionarios: mitad, tercio, ...
+pronombres.castellano.numerales.fraccionarios: mitad 
+pronombres.castellano.numerales.fraccionarios: tercio
+pronombres.castellano.numerales.fraccionarios: cuarto 
+pronombres.castellano.numerales.fraccionarios: quinto 
+pronombres.castellano.numerales.fraccionarios: sexto 
+#
+# Numerales Multiplicativos
+pronombres.castellano.numerales.multiplicativos: doble
+pronombres.castellano.numerales.multiplicativos: triple 
+pronombres.castellano.numerales.multiplicativos: cuádruple 
+#
+# Interrogativos
+pronombres.castellano.interrogativos: qué 
+pronombres.castellano.interrogativos: cuánto 
+pronombres.castellano.interrogativos: cuándo 
+pronombres.castellano.interrogativos: cuánta 
+pronombres.castellano.interrogativos: cuál 
+pronombres.castellano.interrogativos: cuáles 
+pronombres.castellano.interrogativos: dónde 
+pronombres.castellano.interrogativos: quién 
+pronombres.castellano.interrogativos: quiénes
+#                                                                                       

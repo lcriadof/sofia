@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.lcriadof.sofia.giu"},{"l":"io.github.lcriadof.sofia.gramatica.castellano"},{"l":"io.github.lcriadof.sofia.gramatica.castellano.verbos"},{"l":"io.github.lcriadof.sofia.gramatica.test"}]
