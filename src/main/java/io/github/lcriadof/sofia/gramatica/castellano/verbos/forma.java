@@ -1,12 +1,10 @@
 package io.github.lcriadof.sofia.gramatica.castellano.verbos;
 
-//import java.io.*;
-
 
 // Importa las clases de log4j.
 import org.apache.log4j.Logger;
 //import org.apache.log4j.PropertyConfigurator; 
-import terica.util.StringTokenV2;
+import io.github.lcriadof.cadenas.StringTokenV2;
 
 
 

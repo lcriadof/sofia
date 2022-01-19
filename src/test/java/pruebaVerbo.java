@@ -1,5 +1,5 @@
 import io.github.lcriadof.sofia.gramatica.castellano.verbos.indicativoPresente;
-import toolsLCF.ficheros.secuencial;;
+import io.github.lcriadof.ficheros.secuencial;
 public class pruebaVerbo {
 
 	   public static void main(String[] args) {

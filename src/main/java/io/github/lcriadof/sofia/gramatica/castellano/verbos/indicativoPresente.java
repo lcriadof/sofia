@@ -1,6 +1,6 @@
 package io.github.lcriadof.sofia.gramatica.castellano.verbos;
 
-import terica.util.StringTokenV2;
+import io.github.lcriadof.cadenas.StringTokenV2;
 
 /**
 * Presente de Indicativo

@@ -1,5 +1,5 @@
 import io.github.lcriadof.sofia.gramatica.castellano.*;
-import toolsLCF.cadenas.*;
+import io.github.lcriadof.cadenas.StringTokenV2;
 // clase de prueba
 
 

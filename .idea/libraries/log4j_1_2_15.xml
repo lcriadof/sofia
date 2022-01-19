@@ -2,8 +2,6 @@
   <library name="log4j-1.2.15">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/terica.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/toolsLCF.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

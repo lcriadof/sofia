@@ -16,8 +16,8 @@ import io.github.lcriadof.sofia.gramatica.castellano.verbos.indicativoPreteritoI
 import io.github.lcriadof.sofia.gramatica.castellano.verbos.indicativoPreteritoIndefinido;
 import io.github.lcriadof.sofia.gramatica.castellano.verbos.indicativoPreteritoPerfecto;
 import io.github.lcriadof.sofia.gramatica.castellano.verbos.indicativoPreteritoPluscuamperfecto;
-import toolsLCF.ficheros.secuencial;
-import toolsLCF.cadenas.StringTokenV2;
+import io.github.lcriadof.ficheros.secuencial;
+import io.github.lcriadof.cadenas.StringTokenV2;
 
 import javax.swing.JMenuBar;
 import javax.swing.JMenu;
